@@ -1,4 +1,4 @@
-# Projectivy Plugin : Wallpaper Provider
+# Projectivy Plugin : m3u8 Wallpaper Provider
 
 This is a sample project for developing a wallpaper provider plugin for Projectivy Launcher.
 - /sample : sample code for the plugin service and its setting activity
