@@ -57,12 +57,12 @@
             <!--Plugin UUID *** YOU NEED TO CHANGE IT *** -->
             <!--https://www.uuidgenerator.net/version4 -->
             <meta-data
-                android:name="uuid"
+                android:name="479e8951-aece-4d13-a6e7-64ed6093b2fe"
                 android:value="@string/plugin_uuid"/>
 
             <!-- Plugin name -->
             <meta-data
-                android:name="name"
+                android:name="M3U8 Streamer"
                 android:value="@string/plugin_name"/>
 
             <!-- Plugin activity called by Projectivy to configure it -->
