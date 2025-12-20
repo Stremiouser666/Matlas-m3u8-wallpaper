@@ -40,5 +40,4 @@ jobs:
         with:
           name: app-release
           path: '**/build/outputs/apk/release/*.apk'
-
           
