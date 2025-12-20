@@ -40,7 +40,7 @@
             android:name=".WallpaperProviderService"
             android:exported="true"
             android:label="@string/plugin_name"
-            android:icon="@mipmap/ic_launcher"
+            android:icon="@mipmap/ic_launcher" 
             android:banner="@mipmap/ic_banner"
             tools:ignore="ExportedService">
 
