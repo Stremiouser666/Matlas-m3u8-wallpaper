@@ -13,7 +13,7 @@
         android:required="true" />
 
     <queries>
-        <package android:name="com.spocky.projengmenu" />
+        <package android:name="com.m3u8.projengmenu" />
     </queries>
 
     <application
