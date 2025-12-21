@@ -62,7 +62,7 @@
 
             <!-- Plugin name -->
             <meta-data
-                android:name="M3U8 Streamer"
+                android:name="name"
                 android:value="@string/plugin_name"/>
 
             <!-- Plugin activity called by Projectivy to configure it -->
